@@ -1,0 +1,5 @@
+To run the javascript for spell check
+1) First run the BKTree.java file to create the BK Tree
+2) Add the SWT jars provided with the code. They should be automatically added as I have included them in libs folder.
+3) In the run configuration window. Add to arguments -d32 if you have a MAC OS with 64 bit system.
+4) Add the word to the text field of the window generated and click on the button. Spell check will work! :)
